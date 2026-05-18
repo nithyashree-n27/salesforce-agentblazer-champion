@@ -64,4 +64,4 @@ During this program, I worked on practical lab exercises involving:
 
 ## Connect With Me
 
-LinkedIn: (your profile link)
+LinkedIn: https://www.linkedin.com/in/nithyashree-n-06a166358/
