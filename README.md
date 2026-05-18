@@ -1,7 +1,5 @@
 # Salesforce Agentblazer Champion 
 
-![Trailhead Completion](screenshots/trailhead-completion.png)
-
 This repository documents my learning journey through the Salesforce Agentblazer Champion program on Trailhead, including hands-on lab practice, Agentforce workflows, and AI-powered automation concepts.
 
 ---
