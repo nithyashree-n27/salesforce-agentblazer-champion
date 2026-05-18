@@ -55,10 +55,10 @@ During this program, I worked on practical lab exercises involving:
 
 ## Next Learning Goals
 
-- Salesforce AI Associate
-- Advanced Agentforce Concepts
-- Cloud + AI Integrations
-- API Integrations
+- Build more AI-powered mini projects
+- Explore Salesforce and cloud technologies deeper
+- Improve practical development skills
+- Continue learning real-world AI workflows
 
 ---
 
