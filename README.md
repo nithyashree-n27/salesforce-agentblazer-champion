@@ -1,6 +1,8 @@
 # Salesforce Agentblazer Champion 
 
-Completed the Salesforce Agentblazer Champion program on Trailhead with hands-on lab practice focused on AI-powered workflows and Agentforce fundamentals.
+![Trailhead Completion](screenshots/trailhead-completion.png)
+
+This repository documents my learning journey through the Salesforce Agentblazer Champion program on Trailhead, including hands-on lab practice, Agentforce workflows, and AI-powered automation concepts.
 
 ---
 
@@ -13,6 +15,15 @@ Completed the Salesforce Agentblazer Champion program on Trailhead with hands-on
 - Enterprise AI Use Cases
 
 ---
+
+## Key Learnings
+
+- Understanding AI-powered workflows
+- Exploring Agentforce fundamentals
+- Practical exposure to Salesforce automation
+- Learning prompt-driven interactions
+
+  ---
 
 ## Hands-on Lab Experience
 
